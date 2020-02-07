@@ -1,0 +1,17 @@
+[33mcommit e7d72ceeb63fe1c7e02cc5149a058dc73b04094d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-19-71.us-east-2.compute.internal>
+Date:   Tue Jan 28 15:03:49 2020 +0000
+
+    Initialize repository
+
+[33mcommit 0e7bf4724f07644a4719ef74298c37de3b00462f[m
+Author: EC2 Default User <ec2-user@ip-172-31-19-71.us-east-2.compute.internal>
+Date:   Tue Jan 28 14:57:06 2020 +0000
+
+    Add hello
+
+[33mcommit 7723e061f9e7181cd9dfb131cdb8a0990550b14e[m
+Author: EC2 Default User <ec2-user@ip-172-31-19-71.us-east-2.compute.internal>
+Date:   Tue Jan 28 14:50:20 2020 +0000
+
+    Initialize repository
